@@ -37,7 +37,7 @@ Edit
 
 | Project Name       | Description                                |
 |--------------------|--------------------------------------------|
-| **Titanic EDA**    | Analysis of Titanic dataset using Python and Pandas to understand survival patterns. |
+| **Titanic EDA**    | Analysis of Titanic dataset using Python and Pandas to understand and Visualize survival patterns. |
 | **COVID-19**       | Data visualization and analysis of global COVID-19 cases. |
 | **Guessing Game**  | A basic Python game to guess random numbers. |
 | **Expense Tracker**| A personal finance tracker built in Python. |
@@ -81,4 +81,5 @@ LinkedIn
 
 📜 License
 This project is for personal portfolio purposes. Feel free to fork and customize it for your own use.
+
 
